@@ -10,22 +10,4 @@ NewYork stock exchange data of seven years, between 2010 to 2016, is captured fo
 Exploratory analysis to understand how MoM or YoY companies from different sectors or industries and states have progressed in a period of 7 years
 
 
-## Datasets:
- 
-Column Name	Datatype
-Trading_date	Date
-Symbol	String
-Open	double
-Close	double
-Low	double
-High	double
-Volume	int
 
-TABLE: STOCK_COMPANIES
-
-Column Name	Datatype
-Symbol	String
-Company_name	String
-Sector	String
-Sub_industry	String
-Headquarter	String
